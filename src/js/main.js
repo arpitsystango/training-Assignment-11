@@ -10,6 +10,6 @@ function button_click_arpit() {
 
 function button_click_abhiraj() {
   var messageElement = document.getElementById('message_abhiraj');
-  messageElement.innerHTML = "Hello World! I am Abhiraj, and I am a part of Python Team$
+  messageElement.innerHTML = "Hello World! I am Abhiraj, and I am a part of Python Team$.";
 }
 
